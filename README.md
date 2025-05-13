@@ -1,2 +1,2 @@
 # Mauzalyzer-assets
-pictures for Mauzalyzer
+images for Mauzalyzer and Crack-A-Mauz
